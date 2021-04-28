@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> renders the basic <Header /> with a background 1`] = `
+<div
+  class="header__Background-djltcn-0 fBenpr"
+  data-testid="header-bg"
+  src="joker1"
+>
+  <div
+    class="header__Container-djltcn-2 DCqGz"
+  >
+    <div
+      class="header__Group-djltcn-1 glnGbv"
+    >
+      <a
+        href="/"
+      >
+        <img
+          alt="Netflix"
+          class="header__Logo-djltcn-14 jcmLdb"
+          src="/logo.svg"
+        />
+      </a>
+      <p
+        class="header__Link-djltcn-3 eQzaIp"
+      >
+        Series
+      </p>
+      <p
+        class="header__Link-djltcn-3 eQzaIp"
+      >
+        Films
+      </p>
+    </div>
+    <div
+      class="header__Group-djltcn-1 glnGbv"
+    >
+      <div
+        class="header__Search-djltcn-5 exBIPN"
+      >
+        <button
+          class="header__SearchIcon-djltcn-6 btuwuU"
+          data-testid="search-click"
+        >
+          <img
+            alt="Search"
+            src="/images/icons/search.png"
+          />
+        </button>
+        <input
+          class="header__SearchInput-djltcn-4 jAlqbG"
+          data-testid="search-input"
+          placeholder="Search films and series"
+          value="Joker"
+        />
+      </div>
+      <div
+        class="header__Profile-djltcn-10 ksfJgh"
+      >
+        <button
+          class="header__Picture-djltcn-8 bIvqec"
+          src="/images/users//images/ben.png.png"
+        />
+        <div
+          class="header__Dropdown-djltcn-9 cWihAy"
+        >
+          <div
+            class="header__Group-djltcn-1 glnGbv"
+          >
+            <button
+              class="header__Picture-djltcn-8 bIvqec"
+              src="/images/users//images/ben.png.png"
+            />
+            <p
+              class="header__Link-djltcn-3 eQzaIp"
+            >
+              Ben Sahagun
+            </p>
+          </div>
+          <div
+            class="header__Group-djltcn-1 glnGbv"
+          >
+            <p
+              class="header__Link-djltcn-3 eQzaIp"
+            >
+              Sign out
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="header__Container-djltcn-2 header__Feature-djltcn-11 DCqGz PPWOM"
+  >
+    <h2
+      class="header__FeatureCallOut-djltcn-12 feNcxi"
+    >
+      Watch Joker Now
+    </h2>
+    <p
+      class="header__Text-djltcn-13 krMwoi"
+    >
+      Forever alone in a crowd..
+    </p>
+    <button
+      class="header__PlayButton-djltcn-15 kfgjRX"
+    >
+      Play
+    </button>
+  </div>
+</div>
+`;
+
+exports[`<Header /> renders the basic <Header /> without a background 1`] = `
+<div
+  class="header__Container-djltcn-2 DCqGz"
+>
+  <a
+    href="/"
+  >
+    <img
+      alt="Netflix"
+      class="header__Logo-djltcn-14 jcmLdb"
+      src="/logo.svg"
+    />
+  </a>
+  <a
+    class="header__ButtonLink-djltcn-7 hOGAhz"
+    href="/"
+  >
+    Sign In
+  </a>
+  <p
+    class="header__Link-djltcn-3 eQzaIp"
+  >
+    Hello
+  </p>
+</div>
+`;
