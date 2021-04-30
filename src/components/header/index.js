@@ -102,7 +102,7 @@ Header.Logo = function HeaderLogo({ to, ...restProps }) {
 };
 
 Header.Github = function HeaderGithub({ to, children, ...restProps }) {
-  const url = to.replace('git+', '');
+  const url = to ? to.replace('git+', '') : '';
 
   return (
     <Github onClick={() => window.open(url)} {...restProps}>
