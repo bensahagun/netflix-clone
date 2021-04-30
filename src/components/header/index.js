@@ -16,7 +16,8 @@ import {
   Background,
   ButtonLink,
   Logo,
-  PlayButton
+  PlayButton,
+  Github
 } from './styles/header';
 
 export default function Header({ bg = true, children, ...restProps }) {
@@ -97,5 +98,15 @@ Header.Logo = function HeaderLogo({ to, ...restProps }) {
     <ReactRouterLink to={to}>
       <Logo {...restProps} />
     </ReactRouterLink>
+  );
+};
+
+Header.Github = function HeaderGithub({ to, children, ...restProps }) {
+  const url = to.replace('git+', '');
+
+  return (
+    <Github onClick={() => window.open(url)} {...restProps}>
+      {children}
+    </Github>
   );
 };

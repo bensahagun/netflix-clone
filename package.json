@@ -70,5 +70,9 @@
       "html",
       "text"
     ]
+  },
+  "repository": {
+    "type": "github:bensahagun/netflix-clone",
+    "url": "https://github.com/bensahagun/netflix-clone.git"
   }
 }

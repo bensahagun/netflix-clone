@@ -220,6 +220,38 @@ export const Logo = styled.img`
   }
 `;
 
+export const Github = styled.button`
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  padding: 10px;
+  background: transparent;
+  outline: none;
+  border: none;
+  display: grid;
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+  align-items: flex-end;
+
+  &:before {
+    content: ' ';
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid #fff;
+    border-right: 100px solid transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  img {
+    max-width: 40px;
+    z-index: 99;
+  }
+`;
+
 export const PlayButton = styled.button`
   box-shadow: 0 0.6vw 1vw -0.4vw rgba(0, 0, 0, 0.35);
   background-color: #e6e6e6;
