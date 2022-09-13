@@ -7,7 +7,7 @@ export function HeaderContainer({ children }) {
   return (
     <Header>
       <Header.Github>
-        <a href='https://github.com/bensahagun/netflix-clone' target='_blank'>
+        <a href='https://github.com/bensahagun/netflix-clone' target='_blank' rel='noreferrer'>
           <img src='/images/icons/github.png' alt='Github' />
         </a>
       </Header.Github>
