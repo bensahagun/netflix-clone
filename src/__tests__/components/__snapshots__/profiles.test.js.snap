@@ -2,26 +2,26 @@
 
 exports[`<Profiles/> renders <Profiles/> with populated data 1`] = `
 <div
-  class="profiles__Container-bxtkkv-0 fGoDNJ"
+  class="profiles__Container-sc-bxtkkv-0 brFiEp"
 >
   <h1
-    class="profiles__Title-bxtkkv-1 llHZal"
+    class="profiles__Title-sc-bxtkkv-1 fjLfcR"
   >
     Who's watching?
   </h1>
   <ul
-    class="profiles__List-bxtkkv-2 hybA-dO"
+    class="profiles__List-sc-bxtkkv-2 etMhNa"
   >
     <li
-      class="profiles__User-bxtkkv-5 fbQLcA"
+      class="profiles__User-sc-bxtkkv-5 cnFNU"
     >
       <img
-        class="profiles__Picture-bxtkkv-4 kpLrAV"
+        class="profiles__Picture-sc-bxtkkv-4 jJKsjl"
         data-testid="profile-picture"
         src="/images/users//images/ben.jpg.png"
       />
       <p
-        class="profiles__Name-bxtkkv-3 jQTvVi"
+        class="profiles__Name-sc-bxtkkv-3 ecPTxa"
       >
         Ben Sahagun
       </p>
@@ -33,26 +33,26 @@ exports[`<Profiles/> renders <Profiles/> with populated data 1`] = `
 
 exports[`<Profiles/> renders <Profiles/> with populated data but no picture given 1`] = `
 <div
-  class="profiles__Container-bxtkkv-0 fGoDNJ"
+  class="profiles__Container-sc-bxtkkv-0 brFiEp"
 >
   <h1
-    class="profiles__Title-bxtkkv-1 llHZal"
+    class="profiles__Title-sc-bxtkkv-1 fjLfcR"
   >
     Who's watching?
   </h1>
   <ul
-    class="profiles__List-bxtkkv-2 hybA-dO"
+    class="profiles__List-sc-bxtkkv-2 etMhNa"
   >
     <li
-      class="profiles__User-bxtkkv-5 fbQLcA"
+      class="profiles__User-sc-bxtkkv-5 cnFNU"
     >
       <img
-        class="profiles__Picture-bxtkkv-4 kpLrAV"
+        class="profiles__Picture-sc-bxtkkv-4 jJKsjl"
         data-testid="profile-picture-misc"
         src="/images/misc/loading.gif"
       />
       <p
-        class="profiles__Name-bxtkkv-3 jQTvVi"
+        class="profiles__Name-sc-bxtkkv-3 ecPTxa"
       >
         Ben Sahagun
       </p>

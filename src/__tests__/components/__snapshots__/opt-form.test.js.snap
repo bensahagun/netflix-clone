@@ -2,14 +2,14 @@
 
 exports[`<OptForm/> render <OptForm/> with populated data  1`] = `
 <div
-  class="opt-form__Container-sc-8oudnm-0 ddpBWj"
+  class="opt-form__Container-sc-8oudnm-0 wCjfi"
 >
   <input
-    class="opt-form__Input-sc-8oudnm-1 lkWqAy"
+    class="opt-form__Input-sc-8oudnm-1 gxekUn"
     placeholder="Email Address"
   />
   <button
-    class="opt-form__Button-sc-8oudnm-3 hRnKbg"
+    class="opt-form__Button-sc-8oudnm-3 cjjXvR"
   >
     Try it now
      
@@ -19,10 +19,10 @@ exports[`<OptForm/> render <OptForm/> with populated data  1`] = `
     />
   </button>
   <div
-    class="opt-form__Break-sc-8oudnm-2 jFaOHz"
+    class="opt-form__Break-sc-8oudnm-2 bwxIJS"
   />
   <p
-    class="opt-form__Text-sc-8oudnm-4 jEODHm"
+    class="opt-form__Text-sc-8oudnm-4 gkWBPr"
   >
     Ready to watch? Enter your email to create or restart your membership
   </p>

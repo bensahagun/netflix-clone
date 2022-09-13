@@ -2,129 +2,129 @@
 
 exports[`<Card/> renders the <Card/> and toggles the card feature 1`] = `
 <div
-  class="card__Group-s87lnr-2 eqsXHQ"
+  class="card__Group-sc-s87lnr-2 kLtWKB"
 >
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="amanda-knox-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/amanda-knox/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Amanda Knox
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Amanda Marie Knox is an American woman who spent almost four years in an Italian prison.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="man-on-wire-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/man-on-wire/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Man on Wire
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Filmmaker James Marsh masterfully recreates high-wire daredevil Philippe Petit's 1974 stunt walking on a wire across the Twin Towers.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="citizenfour-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/citizenfour/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Citizenfour
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Citizenfour is a 2014 documentary film directed by Laura Poitras, concerning Edward Snowden and the NSA spying scandal.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="super-size-me-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/super-size-me/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Super Size Me
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Director Morgan Spurlock's social experiment in fast-food gastronomy sees him attempting to subsist uniquely on food from the McDonalds
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="tiger-king-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -133,126 +133,126 @@ exports[`<Card/> renders the <Card/> and toggles the card feature 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="the-office-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             The Office
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="family-guy-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/family-guy/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Family Guy
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Peter Griffin and his family of two teenagers, a smart dog, a devilish baby and his wife find themselves in some of the most hilarious scenarios.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="curb-your-enthusiasm-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/curb-your-enthusiasm/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Curb Your Enthusiasm
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Larry David, a famous television writer and producer, gets into various misadventures with his friends and celebrity colleagues in Los Angeles.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="arrested-development-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/arrested-development/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Arrested Development
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             The Bluth family, once a prominent name in the business, loses everything after the head patriarch gets convicted for fraud.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="south-park-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/south-park/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             South Park
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Four young, schoolgoing boys, Stan Marsh, Kyle Broflovski, Eric Cartman and Kenny McCormick, who live in South Park set out on various adventures.
           </p>
@@ -261,126 +261,126 @@ exports[`<Card/> renders the <Card/> and toggles the card feature 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Children
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="peppa-pig-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/peppa-pig/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Peppa Pig
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Peppa, an outgoing preschool pig, participates in many energetic activities. She learns something new every day and has a lot of fun with her family and friends.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="spongebob-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/spongebob/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             SpongeBob
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             A yellow sea sponge named SpongeBob SquarePants lives in the city of Bikini Bottom deep in the Pacific Ocean. 
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="paw-patrol-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/paw-patrol/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             PAW Patrol
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Six brave puppies, captained by a tech-savvy ten-year-old boy, Ryder, work together to accomplish high-stakes rescue missions to safeguard the residents of the Adventure Bay community.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="dora-the-explorer-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/dora-the-explorer/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Dora The Explorer
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Dora, a seven-year-old girl of Latin American descent, embarks upon numerous adventures in the wilderness with her friend Boots, a monkey, and a variety of fun and useful tools.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="arthur-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/arthur/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Arthur
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Bespectacled aardvark Arthur Read demonstrates to kids how to deal with such childhood traumas and challenges as homework, teachers and bullies.
           </p>
@@ -389,126 +389,126 @@ exports[`<Card/> renders the <Card/> and toggles the card feature 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Crime
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="the-staircase-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/the-staircase/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             The Staircase
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             In 2001 novelist Michael Peterson's wife died, and he claimed she perished after falling down stairs at their home. The medical examiner, however, determined that she had been beaten with a weapon
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="making-a-murderer-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/making-a-murderer/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Making a Murderer
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Exonerated after spending nearly two decades in prison for a crime he did not commit, Steven Avery filed suit against Manitowoc County, Wis., and several individuals involved with his arrest.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="the-confession-killer-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/the-confession-killer/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             The Confession Killer
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Henry Lee Lucas was an American convicted serial killer whose crimes spanned from 1960 to 1983. He was convicted of murdering eleven people and condemned to death for the murder of Debra Jackson, although his sentence would be commuted to life in prison in 1998.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="long-shot-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/long-shot/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Long Shot
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             An innocent man is accused of murder, leading his attorney on a wild chase to confirm his alibi using raw footage from a television show.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="the-innocent-man-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/the-innocent-man/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             The Innocent Man
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Henry Lee Lucas was an American convicted serial killer whose crimes spanned from 1960 to 1983. He was convicted of murdering eleven people and condemned to death for the murder of Debra Jackson.
           </p>
@@ -517,126 +517,126 @@ exports[`<Card/> renders the <Card/> and toggles the card feature 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Feel Good
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="school-of-rock-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/school-of-rock/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             School of Rock
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Dewey Finn, an amateur rock enthusiast, slyly takes up his friend's substitute teacher's job. Bearing no qualifications for it, he instead starts training the students to form a band.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="good-will-hunting-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/good-will-hunting/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Good Will Hunting
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Will Hunting, a genius in mathematics, solves all the difficult mathematical problems. When he faces an emotional crisis, he takes help from psychiatrist Dr Sean Maguireto, who helps him recover.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="midnight-in-paris-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/midnight-in-paris/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Midnight In Paris
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Gil arrives with his fiancee and her family in Paris for a vacation, even as he tries to finish his debut novel. He is beguiled by the city, which takes him to a time past, away from his fiancee.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="juno-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/juno/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Juno
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Social misfit Juno protects herself with a caustic wit, but her unplanned pregnancy has the teen getting more involved in the lives of her baby's adoptive parents than she expected.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
         data-testid="forrest-gump-item-feature"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/forrest-gump/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Forrest Gump
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Forrest Gump, a man with a low IQ, joins the army for service where he meets Dan and Bubba. However, he cannot stop thinking about his childhood sweetheart Jenny Curran, whose life is messed up.
           </p>
@@ -649,124 +649,124 @@ exports[`<Card/> renders the <Card/> and toggles the card feature 1`] = `
 
 exports[`<Card/> renders the <Card/> component 1`] = `
 <div
-  class="card__Group-s87lnr-2 eqsXHQ"
+  class="card__Group-sc-s87lnr-2 kLtWKB"
 >
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Documentaries
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/amanda-knox/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Amanda Knox
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Amanda Marie Knox is an American woman who spent almost four years in an Italian prison.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/man-on-wire/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Man on Wire
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Filmmaker James Marsh masterfully recreates high-wire daredevil Philippe Petit's 1974 stunt walking on a wire across the Twin Towers.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/citizenfour/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Citizenfour
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Citizenfour is a 2014 documentary film directed by Laura Poitras, concerning Edward Snowden and the NSA spying scandal.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/super-size-me/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Super Size Me
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Director Morgan Spurlock's social experiment in fast-food gastronomy sees him attempting to subsist uniquely on food from the McDonalds
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/documentaries/tiger-king/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Tiger King
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.
           </p>
@@ -775,121 +775,121 @@ exports[`<Card/> renders the <Card/> component 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Comedies
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/the-office/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             The Office
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/family-guy/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Family Guy
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Peter Griffin and his family of two teenagers, a smart dog, a devilish baby and his wife find themselves in some of the most hilarious scenarios.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/curb-your-enthusiasm/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Curb Your Enthusiasm
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Larry David, a famous television writer and producer, gets into various misadventures with his friends and celebrity colleagues in Los Angeles.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/arrested-development/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Arrested Development
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             The Bluth family, once a prominent name in the business, loses everything after the head patriarch gets convicted for fraud.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/comedies/south-park/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             South Park
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Four young, schoolgoing boys, Stan Marsh, Kyle Broflovski, Eric Cartman and Kenny McCormick, who live in South Park set out on various adventures.
           </p>
@@ -898,121 +898,121 @@ exports[`<Card/> renders the <Card/> component 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Children
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/peppa-pig/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Peppa Pig
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Peppa, an outgoing preschool pig, participates in many energetic activities. She learns something new every day and has a lot of fun with her family and friends.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/spongebob/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             SpongeBob
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             A yellow sea sponge named SpongeBob SquarePants lives in the city of Bikini Bottom deep in the Pacific Ocean. 
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/paw-patrol/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             PAW Patrol
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Six brave puppies, captained by a tech-savvy ten-year-old boy, Ryder, work together to accomplish high-stakes rescue missions to safeguard the residents of the Adventure Bay community.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/dora-the-explorer/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Dora The Explorer
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Dora, a seven-year-old girl of Latin American descent, embarks upon numerous adventures in the wilderness with her friend Boots, a monkey, and a variety of fun and useful tools.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/children/arthur/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Arthur
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Bespectacled aardvark Arthur Read demonstrates to kids how to deal with such childhood traumas and challenges as homework, teachers and bullies.
           </p>
@@ -1021,121 +1021,121 @@ exports[`<Card/> renders the <Card/> component 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Crime
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/the-staircase/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             The Staircase
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             In 2001 novelist Michael Peterson's wife died, and he claimed she perished after falling down stairs at their home. The medical examiner, however, determined that she had been beaten with a weapon
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/making-a-murderer/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Making a Murderer
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Exonerated after spending nearly two decades in prison for a crime he did not commit, Steven Avery filed suit against Manitowoc County, Wis., and several individuals involved with his arrest.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/the-confession-killer/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             The Confession Killer
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Henry Lee Lucas was an American convicted serial killer whose crimes spanned from 1960 to 1983. He was convicted of murdering eleven people and condemned to death for the murder of Debra Jackson, although his sentence would be commuted to life in prison in 1998.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/long-shot/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Long Shot
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             An innocent man is accused of murder, leading his attorney on a wild chase to confirm his alibi using raw footage from a television show.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/crime/the-innocent-man/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             The Innocent Man
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Henry Lee Lucas was an American convicted serial killer whose crimes spanned from 1960 to 1983. He was convicted of murdering eleven people and condemned to death for the murder of Debra Jackson.
           </p>
@@ -1144,121 +1144,121 @@ exports[`<Card/> renders the <Card/> component 1`] = `
     </div>
   </div>
   <div
-    class="card__Container-s87lnr-1 bXGGHr"
+    class="card__Container-sc-s87lnr-1 jcrMsy"
   >
     <p
-      class="card__Title-s87lnr-0 cOUXPu"
+      class="card__Title-sc-s87lnr-0 jxzPAO"
     >
       Feel Good
     </p>
     <div
-      class="card__Entities-s87lnr-8 ixlItX"
+      class="card__Entities-sc-s87lnr-8 gvuJLu"
     >
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/school-of-rock/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             School of Rock
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Dewey Finn, an amateur rock enthusiast, slyly takes up his friend's substitute teacher's job. Bearing no qualifications for it, he instead starts training the students to form a band.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/good-will-hunting/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Good Will Hunting
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Will Hunting, a genius in mathematics, solves all the difficult mathematical problems. When he faces an emotional crisis, he takes help from psychiatrist Dr Sean Maguireto, who helps him recover.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/midnight-in-paris/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Midnight In Paris
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Gil arrives with his fiancee and her family in Paris for a vacation, even as he tries to finish his debut novel. He is beguiled by the city, which takes him to a time past, away from his fiancee.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/juno/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Juno
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Social misfit Juno protects herself with a caustic wit, but her unplanned pregnancy has the teen getting more involved in the lives of her baby's adoptive parents than she expected.
           </p>
         </div>
       </div>
       <div
-        class="card__Item-s87lnr-7 jlLjXi"
+        class="card__Item-sc-s87lnr-7 bxcUBT"
       >
         <img
-          class="card__Image-s87lnr-6 hSrgAI"
+          class="card__Image-sc-s87lnr-6 HUXic"
           src="/images/series/feel-good/forrest-gump/small.jpg"
         />
         <div
-          class="card__Meta-s87lnr-5 hdbkUW"
+          class="card__Meta-sc-s87lnr-5 TAtGa"
         >
           <p
-            class="card__SubTitle-s87lnr-3 ihyWpi"
+            class="card__SubTitle-sc-s87lnr-3 jIVaFa"
           >
             Forrest Gump
           </p>
           <p
-            class="card__Text-s87lnr-4 kSFMJv"
+            class="card__Text-sc-s87lnr-4 fOFPzf"
           >
             Forrest Gump, a man with a low IQ, joins the army for service where he meets Dan and Bubba. However, he cannot stop thinking about his childhood sweetheart Jenny Curran, whose life is messed up.
           </p>

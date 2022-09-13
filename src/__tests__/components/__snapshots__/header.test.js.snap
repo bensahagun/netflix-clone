@@ -2,44 +2,44 @@
 
 exports[`<Header /> renders the basic <Header /> with a background 1`] = `
 <div
-  class="header__Background-djltcn-0 fBenpr"
+  class="header__Background-sc-djltcn-0 bfqtdP"
   data-testid="header-bg"
   src="joker1"
 >
   <div
-    class="header__Container-djltcn-2 DCqGz"
+    class="header__Container-sc-djltcn-2 fikcVv"
   >
     <div
-      class="header__Group-djltcn-1 glnGbv"
+      class="header__Group-sc-djltcn-1 gAfTEj"
     >
       <a
         href="/"
       >
         <img
           alt="Netflix"
-          class="header__Logo-djltcn-14 jcmLdb"
+          class="header__Logo-sc-djltcn-14 ePIjvH"
           src="/logo.svg"
         />
       </a>
       <p
-        class="header__Link-djltcn-3 eQzaIp"
+        class="header__Link-sc-djltcn-3 jSjucN"
       >
         Series
       </p>
       <p
-        class="header__Link-djltcn-3 eQzaIp"
+        class="header__Link-sc-djltcn-3 jSjucN"
       >
         Films
       </p>
     </div>
     <div
-      class="header__Group-djltcn-1 glnGbv"
+      class="header__Group-sc-djltcn-1 gAfTEj"
     >
       <div
-        class="header__Search-djltcn-5 exBIPN"
+        class="header__Search-sc-djltcn-5 dVGHBx"
       >
         <button
-          class="header__SearchIcon-djltcn-6 btuwuU"
+          class="header__SearchIcon-sc-djltcn-6 hBRfQU"
           data-testid="search-click"
         >
           <img
@@ -48,40 +48,40 @@ exports[`<Header /> renders the basic <Header /> with a background 1`] = `
           />
         </button>
         <input
-          class="header__SearchInput-djltcn-4 jAlqbG"
+          class="header__SearchInput-sc-djltcn-4 bXGQIe"
           data-testid="search-input"
           placeholder="Search films and series"
           value="Joker"
         />
       </div>
       <div
-        class="header__Profile-djltcn-10 ksfJgh"
+        class="header__Profile-sc-djltcn-10 izgxVU"
       >
         <button
-          class="header__Picture-djltcn-8 bIvqec"
+          class="header__Picture-sc-djltcn-8 eAMIKA"
           src="/images/users//images/ben.png.png"
         />
         <div
-          class="header__Dropdown-djltcn-9 cWihAy"
+          class="header__Dropdown-sc-djltcn-9 FJnLH"
         >
           <div
-            class="header__Group-djltcn-1 glnGbv"
+            class="header__Group-sc-djltcn-1 gAfTEj"
           >
             <button
-              class="header__Picture-djltcn-8 bIvqec"
+              class="header__Picture-sc-djltcn-8 eAMIKA"
               src="/images/users//images/ben.png.png"
             />
             <p
-              class="header__Link-djltcn-3 eQzaIp"
+              class="header__Link-sc-djltcn-3 jSjucN"
             >
               Ben Sahagun
             </p>
           </div>
           <div
-            class="header__Group-djltcn-1 glnGbv"
+            class="header__Group-sc-djltcn-1 gAfTEj"
           >
             <p
-              class="header__Link-djltcn-3 eQzaIp"
+              class="header__Link-sc-djltcn-3 jSjucN"
             >
               Sign out
             </p>
@@ -91,20 +91,20 @@ exports[`<Header /> renders the basic <Header /> with a background 1`] = `
     </div>
   </div>
   <div
-    class="header__Container-djltcn-2 header__Feature-djltcn-11 DCqGz PPWOM"
+    class="header__Container-sc-djltcn-2 header__Feature-sc-djltcn-11 fikcVv bgNrds"
   >
     <h2
-      class="header__FeatureCallOut-djltcn-12 feNcxi"
+      class="header__FeatureCallOut-sc-djltcn-12 cLSCwu"
     >
       Watch Joker Now
     </h2>
     <p
-      class="header__Text-djltcn-13 krMwoi"
+      class="header__Text-sc-djltcn-13 bUZtfe"
     >
       Forever alone in a crowd..
     </p>
     <button
-      class="header__PlayButton-djltcn-15 kfgjRX"
+      class="header__PlayButton-sc-djltcn-16 iwcPFQ"
     >
       Play
     </button>
@@ -114,25 +114,25 @@ exports[`<Header /> renders the basic <Header /> with a background 1`] = `
 
 exports[`<Header /> renders the basic <Header /> without a background 1`] = `
 <div
-  class="header__Container-djltcn-2 DCqGz"
+  class="header__Container-sc-djltcn-2 fikcVv"
 >
   <a
     href="/"
   >
     <img
       alt="Netflix"
-      class="header__Logo-djltcn-14 jcmLdb"
+      class="header__Logo-sc-djltcn-14 ePIjvH"
       src="/logo.svg"
     />
   </a>
   <a
-    class="header__ButtonLink-djltcn-7 hOGAhz"
+    class="header__ButtonLink-sc-djltcn-7 jrGLMv"
     href="/"
   >
     Sign In
   </a>
   <p
-    class="header__Link-djltcn-3 eQzaIp"
+    class="header__Link-sc-djltcn-3 jSjucN"
   >
     Hello
   </p>

@@ -5,12 +5,12 @@ exports[`<Player/> renders the <Player/> with a bunny video 1`] = `
   class="player__Container-sc-1c49yiu-0"
 >
   <button
-    class="player__Button-sc-1c49yiu-4 gMeeIa"
+    class="player__Button-sc-1c49yiu-4 eDggxH"
   >
     Play
   </button>
   <button
-    class="player__FeatureButton-sc-1c49yiu-5 embVGI"
+    class="player__FeatureButton-sc-1c49yiu-5 hFoQdB"
   >
     Play Now
   </button>
