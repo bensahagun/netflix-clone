@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Link as ReactRouterLink } from 'react-router-dom';
+import React, { useState } from "react";
+import { Link as ReactRouterLink } from "react-router-dom";
 import {
   Container,
   Group,
@@ -17,8 +17,8 @@ import {
   ButtonLink,
   Logo,
   PlayButton,
-  Github
-} from './styles/header';
+  Github,
+} from "./styles/header";
 
 export default function Header({ bg = true, children, ...restProps }) {
   return bg ? (
@@ -101,12 +101,6 @@ Header.Logo = function HeaderLogo({ to, ...restProps }) {
   );
 };
 
-Header.Github = function HeaderGithub({ to, children, ...restProps }) {
-  const url = to ? to.replace('git+', '') : '';
-
-  return (
-    <Github onClick={() => window.open(url)} {...restProps}>
-      {children}
-    </Github>
-  );
+Header.Github = function HeaderGithub({ children, ...restProps }) {
+  return <Github {...restProps}>{children}</Github>;
 };

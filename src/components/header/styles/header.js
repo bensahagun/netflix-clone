@@ -1,11 +1,11 @@
-import styled from 'styled-components/macro';
-import { Link as ReactRouterLink } from 'react-router-dom';
+import styled from "styled-components/macro";
+import { Link as ReactRouterLink } from "react-router-dom";
 
 export const Background = styled.div`
   display: flex;
   flex-direction: column;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.35)),
-    url(${({ src }) => (src ? `../images/misc/${src}.jpg` : '../images/misc/home-bg.jpg')}) top left / cover no-repeat;
+    url(${({ src }) => (src ? `../images/misc/${src}.jpg` : "../images/misc/home-bg.jpg")}) top left / cover no-repeat;
 
   @media (max-width: 1100px) {
     ${({ dontShowOnSmallViewPort }) => dontShowOnSmallViewPort && `background: none;`}
@@ -37,7 +37,7 @@ export const Link = styled.p`
   color: #fff;
   text-decoration: none;
   margin-right: 30px;
-  font-weight: ${({ active }) => (active === 'true' ? '700' : 'normal')};
+  font-weight: ${({ active }) => (active === "true" ? "700" : "normal")};
   cursor: pointer;
 
   &:hover {
@@ -57,10 +57,10 @@ export const SearchInput = styled.input`
   height: 30px;
   font-size: 14px;
   border-radius: 4px;
-  margin-left: ${({ active }) => (active === true ? '10px' : '0')};
-  padding: ${({ active }) => (active === true ? '0 10px' : '0')};
-  opacity: ${({ active }) => (active === true ? '1' : '0')};
-  width: ${({ active }) => (active === true ? '200px' : '0px')};
+  margin-left: ${({ active }) => (active === true ? "10px" : "0")};
+  padding: ${({ active }) => (active === true ? "0 10px" : "0")};
+  opacity: ${({ active }) => (active === true ? "1" : "0")};
+  width: ${({ active }) => (active === true ? "200px" : "0px")};
 
   &:focus {
     background-color: rgba(0, 0, 0, 0.8);
@@ -220,7 +220,7 @@ export const Logo = styled.img`
   }
 `;
 
-export const Github = styled.button`
+export const Github = styled.div`
   position: fixed;
   bottom: 0;
   left: 0;
@@ -236,7 +236,7 @@ export const Github = styled.button`
   align-items: flex-end;
 
   &:before {
-    content: ' ';
+    content: " ";
     width: 0;
     height: 0;
     border-bottom: 100px solid #fff;
@@ -246,6 +246,7 @@ export const Github = styled.button`
     left: 0;
   }
 
+  a,
   img {
     max-width: 40px;
     z-index: 99;
